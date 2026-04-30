@@ -1,1 +1,1 @@
-Topologia de xarxa: Estrella i Bus
+Servicios de red: DHCP, DNS, SSH
