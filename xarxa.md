@@ -1,1 +1,1 @@
-Topologia de xarxa: Estrella i Bus
+Topologia de xarxa: Estrella y Bus
